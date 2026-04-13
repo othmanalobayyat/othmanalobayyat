@@ -1,59 +1,90 @@
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff851b&height=200&section=header&text=Othman%20Al-Obayyat&fontSize=40&fontColor=ffffff" />
+</p>
+
+<p align="center">
+  <b>Full-Stack & Mobile Developer • AI Enthusiast • Smart Systems Engineer</b>
+</p>
+
+---
+
 ## 👋 Hey, I'm Othman
 
-Full-Stack & Mobile Developer building real-world applications using **React Native, Node.js, and AI systems**.
+I'm a **Full-Stack & Mobile Developer** focused on building **AI-powered real-world applications**.  
+I enjoy combining software, mobile apps, and intelligent systems to solve practical problems.
 
 ---
 
-## 🚀 What I Do
+## 🚀 About Me
 
-- Build complete systems: **Mobile + Backend + Database**
-- Integrate **AI & ML into real-world use cases**
-- Ship projects fast using **modern dev tools & AI-assisted workflows**
-
----
-
-## 🧠 Tech Stack
-
-**Frontend:** React Native (Expo)  
-**Backend:** Node.js, Express  
-**Database:** SQL  
-**AI:** Python, Scikit-learn, Pandas  
-**Tools:** Git, VS Code, Claude Code  
+- 🎓 Smart Systems Engineering graduate  
+- 💻 Building full-stack apps (React Native + Node.js + SQL)  
+- 🤖 Passionate about AI, Machine Learning & intelligent systems  
+- ⚡ I leverage AI tools to build faster and smarter  
+- 🔍 Currently improving my portfolio and preparing for job opportunities  
+- 🌍 Open to **remote work & relocation**
 
 ---
 
-## 🔥 Projects
+## 🧠 What I Enjoy
 
-### 🍔 Creativity Restaurant System
-Full-stack mobile app with authentication, order system, and admin dashboard.
-
-**Tech:** React Native, Node.js, SQL  
-👉 [View Project](#)
+🧩 Problem solving • 🚀 Building systems • ⚡ Fast learning • 🤖 AI exploration
 
 ---
 
-### 💳 GoCredi (ML App)
-Predicts credit card approval using ML pipeline and Flask backend.
+## 🛠 Tech Stack
 
-**Tech:** Python, Scikit-learn, Flask  
-👉 [View Project](#)
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,python,cs,cpp,java,mysql,git,github,vscode" />
 
-### 🪑 Posturic Chair
-IoT system using sensors + ESP32 + mobile app for posture monitoring.
+</p>
 
 ---
 
-## 🎯 Current Focus
+## 🔥 Featured Projects
 
-- Improving production-level full-stack systems  
-- Strengthening backend & system design  
-- Preparing for **junior/full-stack roles**
+### 🪑 Posturic Chair  
+Smart posture detection system using sensors + ESP32 + mobile app  
+
+### 🍔 Creativity Restaurant  
+Full-stack restaurant system (Mobile + Backend + Admin Dashboard)  
+
+### 💳 GoCredi  
+ML-based credit approval system with full pipeline  
 
 ---
 
-## 📫 Contact
+## 📊 GitHub Stats
 
-- LinkedIn: <link>
-- Email: <email>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=othmanalobayyat&show_icons=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=othmanalobayyat&layout=compact&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Current Goal
+
+- 💼 Internship / Junior Developer role  
+- 🌍 Remote (preferred)  
+- ✈️ Open to relocation  
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/othman-al-obayyat-51a383268/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:alobayyat.othman@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  🚀 Always learning. Always building.
+</p>
