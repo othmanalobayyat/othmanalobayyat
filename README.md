@@ -1,102 +1,59 @@
-<p align="center">
-  <img width="80%" src="https://capsule-render.vercel.app/api?type=waving&color=ff851b&height=200&section=header&text=Othman%20Al-Obayyat&fontSize=40&fontColor=ffffff" />
-</p>
-
-<br/>
-
 ## 👋 Hey, I'm Othman
 
-I'm a **Full-Stack & Mobile Developer** with a strong interest in building **AI-powered real-world applications**.  
-I enjoy combining software, mobile apps, and intelligent systems to solve practical problems.
+Full-Stack & Mobile Developer building real-world applications using **React Native, Node.js, and AI systems**.
 
 ---
 
-## 🚀 About Me
+## 🚀 What I Do
 
-- 🎓 Smart Systems Engineering graduate  
-- 💻 Building full-stack apps (React Native + Node.js + SQL)  
-- 🤖 Interested in AI, Machine Learning & intelligent systems  
-- ⚡ I leverage AI tools to accelerate development and explore better solutions  
-- 🔍 Currently improving my portfolio and preparing for professional opportunities  
-- 🌍 Open to **remote work and relocation opportunities**
+- Build complete systems: **Mobile + Backend + Database**
+- Integrate **AI & ML into real-world use cases**
+- Ship projects fast using **modern dev tools & AI-assisted workflows**
 
 ---
 
-## 🧠 What I Enjoy
+## 🧠 Tech Stack
 
-- 🧩 Solving real-world problems  
-- 🚀 Building complete systems (Mobile + Backend + AI)  
-- ⚡ Learning fast and experimenting with new technologies  
-- 🤖 Exploring how AI can improve software development  
-
----
-
-## 🛠 Tech Stack
-
-### 📱 Frontend
-- React Native (Expo)
-- JavaScript
-
-### ⚙️ Backend
-- Node.js
-- Express.js
-- SQL / REST APIs
-
-### 🤖 AI & Data
-- Python
-- Machine Learning (Scikit-learn, Pandas, NumPy)
-- Prompt Engineering (LLMs, Claude)
-
-### 🔧 Tools
-- Git & GitHub
-- VS Code
-- Claude / Claude Code
-
-### ⚡ Systems & Hardware
-- Arduino
-- ESP32
-- Sensors & IoT Systems
+**Frontend:** React Native (Expo)  
+**Backend:** Node.js, Express  
+**Database:** SQL  
+**AI:** Python, Scikit-learn, Pandas  
+**Tools:** Git, VS Code, Claude Code  
 
 ---
 
-## 🔥 Featured Projects
-
-### 🪑 Posturic Chair (Graduation Project)
-Smart system for posture detection using sensors, ESP32, and a mobile application for real-time feedback.
+## 🔥 Projects
 
 ### 🍔 Creativity Restaurant System
-Full-stack restaurant management system with mobile app, backend APIs, authentication, and admin dashboard.
+Full-stack mobile app with authentication, order system, and admin dashboard.
 
-### 💳 GoCredi (ML Project)
-Machine learning web app for credit card approval prediction with full ML pipeline and Flask backend.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=othmanalobayyat&show_icons=true&hide_border=true" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=othmanalobayyat&layout=compact&hide_border=true" />
-</p>
+**Tech:** React Native, Node.js, SQL  
+👉 [View Project](#)
 
 ---
 
-## 🎯 Current Goal
+### 💳 GoCredi (ML App)
+Predicts credit card approval using ML pipeline and Flask backend.
 
-I'm actively looking for:
-- 💼 Internship or Junior Developer roles  
-- 🌍 Remote opportunities (preferred)  
-- ✈️ Open to relocation if supported  
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/othman-al-obayyat-51a383268/  
-- 📧 Email: alobayyat.othman@gmail.com  
+**Tech:** Python, Scikit-learn, Flask  
+👉 [View Project](#)
 
 ---
 
-<p align="center">
-  🚀 Always learning. Always building. Always improving.
-</p>
+### 🪑 Posturic Chair
+IoT system using sensors + ESP32 + mobile app for posture monitoring.
+
+---
+
+## 🎯 Current Focus
+
+- Improving production-level full-stack systems  
+- Strengthening backend & system design  
+- Preparing for **junior/full-stack roles**
+
+---
+
+## 📫 Contact
+
+- LinkedIn: <link>
+- Email: <email>
